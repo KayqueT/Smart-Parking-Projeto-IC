@@ -1,2 +1,2 @@
-# Smart-Parking---Projeto-IC
-Códigos usados nos circuitos. 
+# Smart Parking - Projeto Introdução a Computação
+Códigos usados nos circuitos em Arduino. 
